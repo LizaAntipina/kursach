@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [23/May/2021:23:41:43 +0300] "GET / HTTP/1.1" 200 1189 http-bio-8080-exec-1 270
+0:0:0:0:0:0:0:1 - - [23/May/2021:23:41:56 +0300] "POST /controller HTTP/1.1" 302 - http-bio-8080-exec-3 908
+0:0:0:0:0:0:0:1 - - [23/May/2021:23:41:56 +0300] "GET /home.jsp HTTP/1.1" 200 5891 http-bio-8080-exec-4 124
+0:0:0:0:0:0:0:1 - - [23/May/2021:23:41:56 +0300] "GET /static/home.css HTTP/1.1" 304 - http-bio-8080-exec-5 105
+0:0:0:0:0:0:0:1 - - [23/May/2021:23:41:57 +0300] "GET /static/profile.css HTTP/1.1" 304 - http-bio-8080-exec-2 43
+0:0:0:0:0:0:0:1 - - [23/May/2021:23:42:01 +0300] "GET /controller?command=readDataTable HTTP/1.1" 302 - http-bio-8080-exec-7 61
+0:0:0:0:0:0:0:1 - - [23/May/2021:23:42:01 +0300] "GET /method.jsp HTTP/1.1" 200 9504 http-bio-8080-exec-8 97
+0:0:0:0:0:0:0:1 - - [23/May/2021:23:45:06 +0300] "GET /controller?command=getBestValue HTTP/1.1" 302 - http-bio-8080-exec-10 62
+0:0:0:0:0:0:0:1 - - [23/May/2021:23:45:06 +0300] "GET /result.jsp HTTP/1.1" 200 8508 http-bio-8080-exec-10 72

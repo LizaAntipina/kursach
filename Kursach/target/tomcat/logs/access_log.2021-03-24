@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [24/Mar/2021:20:27:53 +0200] "GET /manager/html HTTP/1.1" 500 1860 http-bio-8080-exec-2 112
+0:0:0:0:0:0:0:1 - - [24/Mar/2021:20:27:54 +0200] "GET /favicon.ico HTTP/1.1" 500 1860 http-bio-8080-exec-1 8
+0:0:0:0:0:0:0:1 - - [24/Mar/2021:20:28:12 +0200] "GET /manager/html HTTP/1.1" 500 1860 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [24/Mar/2021:20:28:12 +0200] "GET /favicon.ico HTTP/1.1" 500 1860 http-bio-8080-exec-4 8
+0:0:0:0:0:0:0:1 - - [24/Mar/2021:20:28:14 +0200] "GET /manager/html HTTP/1.1" 500 1860 http-bio-8080-exec-6 40
+0:0:0:0:0:0:0:1 - - [24/Mar/2021:20:28:15 +0200] "GET /favicon.ico HTTP/1.1" 500 1860 http-bio-8080-exec-5 9
+0:0:0:0:0:0:0:1 - - [24/Mar/2021:20:30:30 +0200] "GET / HTTP/1.1" 200 108 http-bio-8080-exec-8 2530
+0:0:0:0:0:0:0:1 - - [24/Mar/2021:20:30:30 +0200] "GET /favicon.ico HTTP/1.1" 500 1860 http-bio-8080-exec-9 24
+0:0:0:0:0:0:0:1 - - [24/Mar/2021:20:32:01 +0200] "GET /favicon.ico HTTP/1.1" 500 1860 http-bio-8080-exec-2 8

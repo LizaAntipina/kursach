@@ -1,0 +1,7 @@
+.contact-form{
+    display: flex;
+    flex-flow: column;
+}
+.message-label{
+    vertical-align: top;
+}
